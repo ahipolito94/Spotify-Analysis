@@ -1,7 +1,5 @@
 # Spotify - An Analysis of Your Music
 
-If there is one thing I cannot live without, it’s not my phone or my laptop or my car – it’s   music. I love music and I love getting lost in it. I like to think that I have a diverse taste in   music. So my inspiration for this project is finding out why my music taste vary so   much. And yes, I am that person you see with her headphones always on. 
-
 # Capstone Proposal
 1.	What problem do you want to solve?
     - Why do you love the music that you love?
