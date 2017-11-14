@@ -12,16 +12,16 @@ This repository is intended for the analysis and predictive modeling of songs fr
 ├── README.md                <- README
 │
 ├── Data                     <- raw data 
-│   ├── LIKES      
-|   ├── DISLIKES  
-│   └── TOP_HITS   
+│   ├── LIKES.xlsx      
+|   ├── DISLIKES.xlsx  
+│   └── TOP_HITS.xlsx   
 |
 ├── Deliverables             <- drafts and final drafts
-|   ├── Code
-│   └── Report   
+|   ├── Code.ipynb
+│   └── Report.pdf   
 │
 ├── Project Submissions      <- project submissions to springboard
-│   ├── Part1_DataWranglingCode      
-|   ├── Part2_DataStorytellingCode  
-│   └── Part3_PredictiveModelCode 
+│   ├── Part1_DataWranglingCode.ipynb      
+|   ├── Part2_DataStorytellingCode.ipynb  
+│   └── Part3_PredictiveModelCode.ipynb 
 ```
