@@ -1,4 +1,4 @@
-# Spotify - An Analysis of Your Music
+# Spotify: Analyzing and Predicting Songs
 
 ## Key Concepts
 - Data Wrangling
