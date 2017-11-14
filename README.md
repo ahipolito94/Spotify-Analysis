@@ -7,3 +7,21 @@ This repository is intended for the analysis and predictive modeling of songs fr
 - Exploratory Data Analysis, Storytelling
 - Machine Learning (Supervised Learning, Predictive Model)
 
+## Structure
+```
+├── README.md                <- README
+│
+├── Data                     <- raw data 
+│   ├── LIKES      
+|   ├── DISLIKES  
+│   └── TOP_HITS   
+|
+├── Deliverables             <- drafts and final drafts
+|   ├── Code
+│   └── Report   
+│
+├── Project Submissions      <- project submissions to springboard
+│   ├── Part1_DataWranglingCode      
+|   ├── Part2_DataStorytellingCode  
+│   └── Part3_PredictiveModelCode 
+```
