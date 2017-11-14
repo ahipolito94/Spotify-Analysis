@@ -1,6 +1,6 @@
 # Spotify: Analyzing and Predicting Songs
 ## Project Overview
-This repository is intended for the analysis and predictive modeling of songs from Spotify.
+This repository is intended for the analysis and predictive modeling of songs from Spotify and is part of my first Capstone Project.
 
 ## Key Concepts
 - Data Wrangling
